@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+
+env/
+venv/
+
+#
+**/migrations/*.py
+**/migrations/*.pyc
+
+
+*.sqlite3
+
+static/
+media/
+
+*.env
+myvenv/
+
